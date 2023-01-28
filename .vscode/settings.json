@@ -1,0 +1,3 @@
+{
+  "rust-analyzer.linkedProjects": ["Cargo.toml", "perf-event-test-ebpf/Cargo.toml"]
+}

@@ -1,0 +1,2 @@
+[workspace]
+members = ["perf-event-test", "perf-event-test-common", "xtask"]
